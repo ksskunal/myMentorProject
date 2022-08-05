@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#footer{
+    
+  margin-top: 400px;
+  padding-bottom: 20px;
+}
+
+#footer #footer-border-img{
+  width: 100%;
+}
+#footer #footer-logo{
+  width: 100px;
+}
+#footer p{
+  font-size: 16px;
+  color: black;
+}
+#footer .form-label{
+  color:black;
+}
+#footer #footer-company-name{
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+  padding-bottom: 10px;
+}
+#footer #icon{
+  width:100px;
+  color: black;
+}
+#footer .fotter-contact-p{
+  font-size: 15px;
+}
+#footer #footer-heading-form{
+  padding-top: 10px;
+  font-size: 20px;
+  font-size: bold;
+}
+
+#footer img{
+  width: 50px;
+}
+
